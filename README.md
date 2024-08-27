@@ -1,5 +1,6 @@
 # MNIST-Digit-Classifier
 CNN Digit Classification with MNIST Dataset
+
 **Project Overview**
 This project builds and trains a Convolutional Neural Network (CNN) to classify handwritten digits using the MNIST dataset. The CNN model is designed to recognize digits from 0 to 9 and is trained using the Keras library.
 
@@ -28,7 +29,7 @@ Confusion Matrix: The confusion matrix provides a detailed view of the model’s
 ![image](https://github.com/user-attachments/assets/ab7eaa6c-e16a-431f-a2ef-e5ded675982f)
 ![image](https://github.com/user-attachments/assets/08a0738f-3d2c-441e-936f-57b4578b1c9a)
 
-** Conclusion**
+**Conclusion**
 This project demonstrates how to build a simple yet effective CNN for digit classification using the MNIST dataset. The model’s performance can be further improved by experimenting with different architectures, optimizers, or data augmentation techniques.
 
 **License**
