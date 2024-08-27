@@ -23,9 +23,9 @@ Installation
 Install the required packages using pip:
 
 **Results**
-Model Accuracy: The model achieved an accuracy of approximately [insert accuracy here]% on the test dataset.
+Model Accuracy: The model achieved an accuracy of approximately 0.9921% on the test dataset.
 Confusion Matrix: The confusion matrix provides a detailed view of the model’s classification performance.
-Conclusion
+** Conclusion**
 This project demonstrates how to build a simple yet effective CNN for digit classification using the MNIST dataset. The model’s performance can be further improved by experimenting with different architectures, optimizers, or data augmentation techniques.
 
 **License**
